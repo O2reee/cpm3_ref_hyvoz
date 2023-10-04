@@ -1,4 +1,9 @@
 .grill-chien {
 	width: 200px;
 	height: 200px;
+	transform: scale(1);
+}
+
+.grill-chien:hover {
+  transform: scale(1.1);
 }
